@@ -7,7 +7,6 @@ You can closely integrate SAP Applications and SAP Data Warehouse Cloud solution
 ## Exercises
 
 - [ANA262 Exercise Material](SAP_TechED_2021_ANA262_EXERCISES.pdf)
-- [ANA262 System Details](SAP_TechED_2021_ANA262_System_Details.pdf)
 - ANA262 Presentation
 
 
