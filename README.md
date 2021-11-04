@@ -1,37 +1,12 @@
-# Session ID - Session Title
-
-## Description
-
-This repository contains the material for the SAP TechEd 2021 session called Session ID - Session Title.  
+## ANA262 - Extend SAP BW/4HANA with SAP Data Warehouse Cloud
 
 ## Overview
 
-This session introduces attendees to...
-
-## Requirements
-
-The requirements to follow the exercises in this repository are...
+You can closely integrate SAP Applications and SAP Data Warehouse Cloud solutions to benefit from the best of both worlds. Learn how to connect and consume data models from various SAP Cloud applications in SAP in Data Warehouse Cloud. On top of that, experience how SAP BW/4HANA integrates into SAP Data Warehouse Cloud with model transfer and the BW bridge and how this can help you to start your cloud journey and modernize your data warehouse.
 
 ## Exercises
 
-Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
 
-- [Getting Started](exercises/ex0/)
-- [Exercise 1 - First Exercise Description](exercises/ex1/)
-    - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
-- [Exercise 2 - Second Exercise Description](exercises/ex2/)
-    - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
-
-  
-**OR** Link to the Tutorial Navigator for example...
-
-Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
-
-**IMPORTANT**
-
-Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
 
 ## How to obtain support
 
