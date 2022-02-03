@@ -1,4 +1,5 @@
 ## ANA262 - Extend SAP BW/4HANA with SAP Data Warehouse Cloud
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2021-ANA262)](https://api.reuse.software/info/github.com/SAP-samples/teched2021-ANA262/)
 
 ## Overview
 
